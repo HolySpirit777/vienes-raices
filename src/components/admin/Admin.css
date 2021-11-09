@@ -1,0 +1,28 @@
+
+.container {
+
+    margin: 30px;
+    display: flex;
+    /* flex-direction: row; */
+
+}
+
+.input-field {
+
+    margin: 5px;
+    padding: 10px;
+
+}
+
+.column {
+    
+    display: inline !important;
+
+}
+
+.buttons {
+
+    margin: 50px;
+
+}
+
